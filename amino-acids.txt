@@ -14,5 +14,4 @@ Proline		Pro
 Serine		Ser
 Threonine	Thr
 Tryptophan	Trp
-Tyrosine	Tyr
-Valine		Val
+
