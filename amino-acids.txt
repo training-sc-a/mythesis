@@ -1,6 +1,4 @@
 Alanine		Ala
-Arginine	Arg
-Asparagine	Asn
 Aspartic acid	Asp
 Cysteine	Cys
 Glutamic acid	Glu
